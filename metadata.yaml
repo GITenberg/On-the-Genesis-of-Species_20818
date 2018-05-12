@@ -1,0 +1,29 @@
+_repo: On-the-Genesis-of-Species_20818
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mivart, St. George Jackson
+    alias: Mivart, Saint George Jackson
+    birthdate: 1827
+    deathdate: 1900
+    gutenberg_agent_id: '9543'
+    url: http://www.gutenberg.org/2009/agents/9543
+description: ''
+gutenberg_bookshelf: Biology
+gutenberg_issued: '2007-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20818'
+  lccn: '06022514'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Evolution (Biology)'
+title: On the Genesis of Species
+url: http://www.gutenberg.org/ebooks/20818
